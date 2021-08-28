@@ -1,3 +1,2 @@
-# System-Repo
-
-- Repository를 관리하기 위한 Repository
+# Jung Sang Hyeon
+- 안녕하세요~~
