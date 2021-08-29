@@ -2,6 +2,6 @@
 
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSangHyeon&layout=compact)
 
-Android 개발자입니다! Kolin 배울거에요!
+Android 개발자입니다! Kolin 배우고있어요!
 
 
