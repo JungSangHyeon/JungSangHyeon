@@ -3,5 +3,4 @@
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSangHyeon&layout=compact)
 
 Android 개발자입니다! Kolin 배우고있어요!
-
-
+여러분 Notion 쓰세요 최고에요!
